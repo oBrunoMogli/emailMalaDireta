@@ -52,7 +52,7 @@ function enviarEmail(row, candidate)
   
   //criando template html
   var templ = HtmlService
-      .createTemplateFromFile('3corpoEmail');
+      .createTemplateFromFile('index');
 
   templ.candidate = candidate;
   
