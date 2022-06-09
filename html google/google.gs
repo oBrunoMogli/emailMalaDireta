@@ -83,4 +83,5 @@ array 6 - col G = 7 -  Link to merged Doc - Informações e-mail @educamericana.
 array 7 - col H = 8 -  Document Merge Status - Informações e-mail @educamericana.sp.gov.br
 array 8 - col I = 9 -  Em Branco/Vazia
 array 9 - col J = 10 - Número de linhas a ser processada (inserir na linha 1)
+link para planilha de exemplo no google planilhas = https://docs.google.com/spreadsheets/d/1jEDlrhUhZLZdRjozoYlyDDYVVF64BiRt7uLgKrNJFvE/edit?usp=sharing
 */
